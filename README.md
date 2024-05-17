@@ -16,5 +16,5 @@ These interpretability levels, in turn, allow for employing the Adaptive Multi-S
 
 
 # Cite:
-
+Dentamaro, V., Giglio, P., Impedovo, D., Pirlo, G., & Di Ciano, M. (2024). An interpretable adaptive multiscale attention deep neural network for tabular data. IEEE Transactions on Neural Networks and Learning Systems, 1–15. https://doi.org/10.1109/TNNLS.2024.3392355
 
